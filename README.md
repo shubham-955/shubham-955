@@ -23,30 +23,36 @@
    
 <div>
 <a href="#">
-   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" width="30" height="30"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="" width="35" height="35"/>
 </a>
 <a href="#">
-   <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="" width="30" height="30"/>
+   <img src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" alt="" width="35" height="35"/>
 </a>  
 <a href="https://www.javascript.com/">
-   <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="" width="30" height="30"/>
+   <img src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" alt="" width="35" height="35"/>
 </a>   
 <a href="https://reactjs.org/">
-   <img src="https://p.kindpng.com/picc/s/19-195049_react-js-logo-svg-hd-png-download.png" alt="" width="30" height="30"/>
+   <img src="https://p.kindpng.com/picc/s/19-195049_react-js-logo-svg-hd-png-download.png" alt="" width="35" height="35"/>
 </a>
 <a href="https://reactnative.dev/">
-   <img src="https://p.kindpng.com/picc/s/765-7652239_react-native-svg-logo-hd-png-download.png" alt="" width="30" height="30"/>
+   <img src="https://p.kindpng.com/picc/s/765-7652239_react-native-svg-logo-hd-png-download.png" alt="" width="35" height="35"/>
 </a>
 <a href="https://redux.js.org/">
-   <img src="https://static.cdnlogo.com/logos/r/37/redux.svg" alt="" width="30" height="30"/>
+   <img src="https://static.cdnlogo.com/logos/r/37/redux.svg" alt="" width="35" height="35"/>
 </a>
 <a href="https://nodejs.org/en/">
-   <img src="https://p.kindpng.com/picc/s/656-6568580_nodejs-logo-png-transparent-node-js-icon-png.png" alt="" width="30" height="30"/>
+   <img src="https://p.kindpng.com/picc/s/656-6568580_nodejs-logo-png-transparent-node-js-icon-png.png" alt="" width="50" height="35"/>
 </a>
 <a href="https://www.mongodb.com/">
-   <img src="https://static.cdnlogo.com/logos/m/2/mongodb.svg" alt="" width="30" height="30"/>
+   <img src="https://static.cdnlogo.com/logos/m/2/mongodb.svg" alt="" width="50" height="35"/>
 </a>
-<a href="https://getbootstrap.com/>
-   <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="" width="30" height="30"/>
+<a href="https://getbootstrap.com/">
+   <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="" width="35" height="35"/>
+</a>
+<a href="https://expressjs.com/">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="" width="50" height="35"/>
+</a>
+<a href="https://git-scm.com/">
+   <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="" width="35" height="35"/>
 </a>   
 <div>   
