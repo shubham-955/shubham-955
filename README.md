@@ -12,9 +12,9 @@
 ### Connect with me
 <div>
 <a href="mailto:someone@example.com">
-   <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="" style={{width:25, height:25}}/>
+   <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="" width="30" height="30"/>
 </a>
 <a href="https://www.linkedin.com/in/shubham-gadge-aa6b3417b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQOWN23%2BkS4ShlFlUWVj7PQ%3D%3D">
-   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="" style={{width:25, height:25}}/>
+   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="" width="30" height="30"/>
 </a>
 <div>   
