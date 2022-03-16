@@ -56,3 +56,14 @@
    <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="" width="35" height="35"/>
 </a>   
 <div>   
+
+### Interests
+  
+<div>    
+  <ul>
+     <li>Reading Books</li>
+     <li>Travelling</li>
+     <li>Patriotic Web Series and Movies</li>
+     <li>Chanting & Meditating</li>
+  </ul>   
+</div>
