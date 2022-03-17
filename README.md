@@ -1,4 +1,6 @@
-### Hi, this is Shubham 👋
+<p style={{fontWeight:'bold', textAlign:"center"}}>
+  Hi, this is Shubham 👋
+</p>
 
 - 🔭 I’m currently working on ...building new Web Applications..
 - 🌱 I’m currently learning ...[Full Stack Web Development](https://www.masaischool.com/)
