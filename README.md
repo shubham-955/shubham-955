@@ -10,7 +10,7 @@
 -->
 
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU" alt="" width="100%" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU" alt="" width="100%" height="150"/>
 </div>
 
 ### Connect with me
