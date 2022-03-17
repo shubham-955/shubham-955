@@ -1,4 +1,4 @@
-<p style={{fontWeight:'bold', textAlign:"center"}}>
+<p style="font-size:20px; font-weight:bold; text-align:center">
   Hi, this is Shubham 👋
 </p>
 
