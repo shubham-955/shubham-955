@@ -73,4 +73,4 @@
 </div>
  
 ### My GitHub stats
-https://github-readme-stats.vercel.app/api?username=shubham-955
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-955" alt=""/>
