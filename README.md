@@ -1,8 +1,7 @@
-<div style="width:100%; text-align: center;">
-<h1>
-  Hi, this is Shubham 👋
-</h1>
-</div>  
+<div align="center">
+<h1>Hi, this is Shubham 👋</h1>  
+ <h3>The Passionate Full Stack Developer</h3>
+</div>
 
 - 🔭 I’m currently working on ...building new Web Applications..
 - 🌱 I’m currently learning ...[Full Stack Web Development](https://www.masaischool.com/)
