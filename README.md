@@ -72,4 +72,5 @@
   </ul>   
 </div>
  
-[My GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-955)  
+### My GitHub stats
+https://github-readme-stats.vercel.app/api?username=shubham-955
