@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU" alt="" width="50%" height="250"/>
+</div>
+
 <h1 align="center">Hi, This is Shubham 👋 </h1>
 <h3 align="center">The Passionate Full Stack Developer</h3>
 
@@ -10,10 +14,6 @@
 - 😄 My professional summary: ... [My Resume](https://drive.google.com/drive/folders/1NSfX9-Ppo6qJUr_1jegnWQkJZuob2TIx)
 - ⚡ Fun fact: ... If your code is working, don't touch that again..
 -->
-
-<div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU" alt="" width="50%" height="250"/>
-</div>
 
 ### Connect with me
 <div>
