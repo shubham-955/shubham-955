@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU" alt="" width="50%" height="250"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU" alt=""/>
 </div>
 
-<h1 align="center">Hi, This is Shubham 👋 </h1>
+<h1 align="center">Hi, 👋 This is Shubham </h1>
 <h3 align="center">The Passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on ...building new Web Applications..
@@ -13,7 +13,6 @@
 - 📫 How to reach me: ... shubhamgadge722@gmail.com
 - 😄 My professional summary: ... [My Resume](https://drive.google.com/drive/folders/1NSfX9-Ppo6qJUr_1jegnWQkJZuob2TIx)
 - ⚡ Fun fact: ... If your code is working, don't touch that again..
--->
 
 ### Connect with me
 <div>
@@ -73,6 +72,16 @@
      <li>Chanting & Meditating</li>
   </ul>   
 </div>
- 
+
+### My GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-955" alt="shubham-955" /></a> </p>  
+  
 ### My GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=shubham-955" alt=""/>
+
+### Most Used Languages
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-955&show_icons=true&locale=en&layout=compact" alt="shubham-955" /></p>
+
+### Streak Stats  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-955&" alt="shubham-955" /></p>
+  
