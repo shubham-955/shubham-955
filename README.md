@@ -11,7 +11,7 @@
 - 👯 MY details are available on ... [My Portfolio](https://portfolio-shubham-gadge.herokuapp.com/)
 - 💬 Ask me about ...React, React Native
 - 📫 How to reach me: ... shubhamgadge722@gmail.com
-- 😄 My professional summary: ... [My Resume](https://drive.google.com/drive/folders/1NSfX9-Ppo6qJUr_1jegnWQkJZuob2TIx)
+- 😄 My professional summary: ... [My Resume](https://drive.google.com/file/d/1asKd-M5kwjKgPPukbCP9HjrVM9Xw1KHr/view)
 - ⚡ Fun fact: ... If your code is working, don't touch that again..
 
 ### Connect with me
